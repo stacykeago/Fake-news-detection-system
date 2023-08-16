@@ -3,8 +3,8 @@
 * Define the question 
 * The metric for success
 * The experimental design taken. 
-* Read and explore the given dataset
-### Define the appropriateness of the available data to answer the given question.
+* # Read and explore the given dataset
+Define the appropriateness of the available data to answer the given question.
 ### Find and deal with outliers
 ### Find and deal with Anomalies
  Find and deal with missing data within the dataset
